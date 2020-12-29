@@ -1,0 +1,87 @@
+body {
+	backgroung-color: var(--bg);
+	color: var(--text);
+	font-family: 'Arial' , cursive;
+	font-weight: bold;
+	line-height: 1.5;
+}
+footer{
+	
+}
+body{
+	border: 5px solid black;
+}
+p{
+	color: white;
+	text-shadow: 1px 1px 1px black;
+}
+
+html {
+  background-color: #FF9500;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #AB00FF;
+  text-shadow: 3px 3px 1px black;
+}
+
+li{
+	color: white
+}
+h3{
+	color: white
+}
+footer {
+ background: black  no-repeat;
+}
+P.newstheme {
+    font-style: italic;
+    font-weight: 700;
+    color: #ddd;
+}
+/*fixed navbar start*/
+.fixed-nav-bar {   position: fixed;   top: 0;   left: 0;   z-index: 9999;   width: 100%;   height: 50px;   background-color: #5c5b61; top: 0; left: 0; right: 0; position: fixed; z-index: 9999;}
+
+.fixed-nav-bar-button{
+    background-color: #4CAF50;
+    color: white;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+/*fixed navbar*/
+.site_small_logo{
+    float: left;
+}
+.fixed-nav-bar-button0{
+    background-color: #079ded;
+    color: white;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.fixed-nav-bar-button2{
+    background-color: #edd311;
+    color: white;
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+/*fixed navbar end*/
+.date{
+    color: #c9d2d4;
+}
